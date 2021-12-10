@@ -1,9 +1,9 @@
 
-import {ImageSlider1} from './components'
+import {ImageSlider1,SliderCarousel} from './components'
 function App() {
   return (
     <div className="App">
-      <ImageSlider1 />
+      <SliderCarousel />
     </div>
   );
 }
